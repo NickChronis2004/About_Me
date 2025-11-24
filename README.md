@@ -7,6 +7,20 @@
 👨‍💼 **Experience:**
 - IT Support Technician at Logistiko Chroni (Process Automation, Client Services, IT Service Management)
 
+## 🚀 Featured Projects:
+
+### 🛡️ Project OBSIDIAN
+Advanced malware analysis platform combining static analysis, dynamic behavioral monitoring, and ML-based threat detection
+
+### 💻 16-bit RISC-V CPU Simulator
+Complete CPU simulator with assembler and 5-stage pipeline implementation
+
+### 🤖 AI Assistant with GPT-4
+Intelligent assistant featuring voice recognition, image processing, and natural language understanding
+
+### 📚 Greek Optimization Methods Book
+Comprehensive guide on modern optimization algorithms (In collaboration with University of Crete)
+
 👥 **Looking to collaborate on:**
 - Cybersecurity projects
 - ML/AI security applications
